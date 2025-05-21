@@ -33,7 +33,7 @@
 ### 🏗️ Highlight Projects
 
 - 🔗 [`RealTime-Q&A`](https://github.com/dr-flysky/speech2ai)  
-  _provides real-time transcription and answers to your questions. (Whisper + GPT)._
+  _Provide real-time transcription and answers to your questions. (Whisper + GPT)._
 
 - 📈 [`BTC trend predictor`](https://github.com/dr-flysky/btc_predictor)  
   _Bitcoin price prediction system that uses historical data, technical indicators, and machine learning to forecast BTC prices. (LSTM)_
@@ -49,10 +49,6 @@
 - ✉️ [your.email@example.com](mailto:contact@jamesd.xyz)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dr-flysky&show_icons=true&theme=tokyonight" alt="your stats"/>
-</p>
 
 <p align="center">
   <em>“Machine learning will automate jobs that most people thought could only be done by people.” – Dave Waters</em>

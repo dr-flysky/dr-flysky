@@ -46,7 +46,7 @@
 ### 📬 Let's Connect
 
 - 🌐 [Portfolio Website](https://jamesd.xyz)  
-- ✉️ [your.email@example.com](mailto:contact@jamesd.xyz)
+- ✉️ [contact@jamesd.xyz](mailto:contact@jamesd.xyz)
 
 ---
 

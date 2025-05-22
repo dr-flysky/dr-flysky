@@ -46,7 +46,7 @@
 ### 📬 Let's Connect
 
 - 🌐 [Portfolio Website](https://jamesd.xyz)  
-- ✉️ [contact@jamesd.xyz](mailto:contact@jamesd.xyz)
+- ✉️ [Contact Me](mailto:contact@jamesd.xyz)
 
 ---
 

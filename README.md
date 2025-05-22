@@ -45,8 +45,8 @@
 
 ### 📬 Let's Connect
 
-- 🌐 [Portfolio Website](https://jamesd.xyz)  
-- ✉️ [Contact Me](mailto:contact@jamesd.xyz)
+- 🌐 [Portfolio Website](https://www.calebservais.xyz/)  
+- ✉️ [Contact Me](mailto:hello@calebservais.xyz)
 
 ---
 

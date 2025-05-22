@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm James Draven</h1>
+<h1 align="center">👋 Hi, I'm AI Lover</h1>
 <h3 align="center">Senior AI Engineer | Machine Learning Architect | AI Systems Builder</h3>
 
 <p align="center">

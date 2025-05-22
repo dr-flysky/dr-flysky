@@ -16,7 +16,6 @@
   - LLM orchestration (LangChain, OpenAI APIs)
   - AI agents for enterprise automation
   - MLOps, CI/CD, and model versioning
-- 📍 Based in Clinton NC, open to global collaboration
 
 ---
 

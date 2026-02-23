@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm AI Lover</h1>
-<h3 align="center">Senior AI Engineer | Machine Learning Architect | AI Systems Builder</h3>
+<h3 align="center">Senior Software Engineer | Machine Learning Architect | AI Systems Builder</h3>
 
 <p align="center">
-🚀 Building scalable ML solutions • 🧠 Passionate about LLMs & Deep Learning • 🎯 Focused on real-world impact  
+🚀 Problem solving • 🧠 Passionate about LLMs & Deep Learning • 🎯 Focused on real-world impact  
 </p>
 
 ---
@@ -17,11 +17,16 @@
 
 ### 🧰 Tech Stack
 
-**Languages:** Python, C++, SQL, JavaScript  
-**Frameworks:** PyTorch, TensorFlow, scikit-learn, Hugging Face  
-**MLOps:** MLflow, Weights & Biases, Airflow, Docker, K8s, DVC  
-**Cloud:** AWS, GCP (Vertex AI), Azure ML  
-**Data:** Pandas, Spark, Kafka, Pinecone, FAISS  
+**Languages:** C++, C#, Python, JavaScript, TypeScript, SQL, Bash, PowerShell
+**Backend & APIs:** .NET, ASP.NET Core, Web API, REST, gRPC, GraphQL, WebSockets, OAuth2, OpenID Connect, JWT
+**Distributed Systems:** Microservices, Event-Driven Architecture, Pub/Sub, Message Queues, Service Discovery, Load Balancing, Fault Tolerance, Backpressure, Rate Limiting
+**Data & Storage:** PostgreSQL, SQL Server, MySQL, SQLite, MongoDB, Redis, Elasticsearch, Data Modeling, ETL/ELT, Data Quality, Schema Design, Indexing, Query Tuning
+**Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, Helm, Terraform, CI/CD (GitHub Actions, Azure DevOps, Jenkins), Linux, Nginx, IaC
+**Observability & Reliability:** OpenTelemetry, Prometheus, Grafana, ELK/Elastic Stack, Splunk, Sentry, Distributed Tracing, Structured Logging, SLO/SLI, Incident Response, Runbooks
+**Testing & Quality:** xUnit, NUnit, PyTest, Playwright, Cypress, Postman, Contract Testing, TDD, Static Analysis, Code Reviews
+**Frontend:** React, Next.js, HTML5, CSS3, Tailwind CSS, Node.js
+**AI/Automation:** Python automation, Workflow orchestration, LLM integration patterns, Prompt/response logging, Safety/guardrails, Feature flags
+**Collaboration:** Agile/Scrum, Design Reviews, Architecture RFCs, Stakeholder communication, Mentorship
 
 ---
 

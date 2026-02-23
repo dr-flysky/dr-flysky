@@ -9,13 +9,9 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently leading AI projects focused on **LLMs, retrieval-augmented generation (RAG)**, and **real-time ML systems**
-- 👨‍🏫 I mentor junior engineers and collaborate cross-functionally to bring models from prototype to production
-- 📊 I love designing **end-to-end machine learning pipelines** and **deploying models at scale**
-- 🧠 I'm especially interested in:
-  - LLM orchestration (LangChain, OpenAI APIs)
-  - AI agents for enterprise automation
-  - MLOps, CI/CD, and model versioning
+- 🔭Senior Software Engineer with a cross-stack background spanning C++ systems work, C#/.NET services, Python automation/AI, and modern full-stack development. I’ve delivered production systems that prioritize performance, uptime, and maintainability, including API platforms, distributed services, data workflows, and user-facing web apps.
+
+- 📊I enjoy tackling hard problems-latency and throughput bottlenecks, complex integrations, and ambiguous requirements-and turning them into simple, testable, observable solutions. I value strong engineering fundamentals (design reviews, code quality, CI/CD, monitoring) and pragmatic delivery
 
 ---
 

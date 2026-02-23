@@ -18,6 +18,7 @@
 ### 🧰 Tech Stack
 
 **Languages:** C++, C#, Python, JavaScript, TypeScript, SQL, Bash, PowerShell
+
 **Backend & APIs:** .NET, ASP.NET Core, Web API, REST, gRPC, GraphQL, WebSockets, OAuth2, OpenID Connect, JWT
 **Distributed Systems:** Microservices, Event-Driven Architecture, Pub/Sub, Message Queues, Service Discovery, Load Balancing, Fault Tolerance, Backpressure, Rate Limiting
 **Data & Storage:** PostgreSQL, SQL Server, MySQL, SQLite, MongoDB, Redis, Elasticsearch, Data Modeling, ETL/ELT, Data Quality, Schema Design, Indexing, Query Tuning

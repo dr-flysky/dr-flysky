@@ -36,12 +36,6 @@
 - 🧠 [`Crowd Counter`](https://github.com/dr-flysky/crowd-counting)  
   _Performing the task of implementing a people counter from an overhead video surveillance camera by using Transfer Learning._
 
----
-
-### 📬 Let's Connect
-
-- 🌐 [Portfolio Website](https://www.calebservais.xyz/)  
-- ✉️ [Contact Me](mailto:hello@calebservais.xyz)
 
 ---
 
